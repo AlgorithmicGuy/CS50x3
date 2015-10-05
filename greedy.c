@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
-#include "cs50.h"
+#include "cs50.h" //cs50 header file
 #include "cs50.c"
 
 int main (void)
